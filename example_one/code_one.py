@@ -20,7 +20,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 # 2. LOAD DATASET
 # -------------------------------
 # Load Loan Approval dataset
-data = pd.read_csv("dataset.csv")
+data = pd.read_csv("dataset_one.csv")
 
 print("Initial Dataset Shape:", data.shape)
 

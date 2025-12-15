@@ -19,7 +19,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 # -------------------------------
 # 2. LOAD DATASET
 # -------------------------------
-data = pd.read_csv("bank_loan.csv")
+data = pd.read_csv("dataset_two.csv")
 print("Initial Dataset Shape:", data.shape)
 
 # -------------------------------
