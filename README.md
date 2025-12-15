@@ -11,14 +11,14 @@ $ source .venv/bin/activate
 $ python -m venv .venv
 ```
 
-
 ### Install essential libraries 
 
 ```console
 $ python -m pip install numpy pandas scikit-learn matplotlib
 ```
 
-### Run the code 
+### Run code 
+
 ```console
 $ python3 example_one/code_one.py
 $ python3 example_two/code_two.py
